@@ -558,7 +558,7 @@
 				},
 				//关注
 				attention:[
-					{id:1,title:'虎扑体育'},
+					{id:1,title:'虎扑体育1'},
 					{id:2,title:'联盟资讯BOT'},
 					{id:3,title:'hunderd快讯'},
 					{id:4,title:'hunderd快讯'},		
